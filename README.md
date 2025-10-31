@@ -8,7 +8,7 @@ O objetivo foi desenvolver um **formulário inteligente de preenchimento de ende
 ## 🔗 Links
 
 * 🔴 [Live Site](https://chryspenalber.github.io/tarefa-7-web-api/)
-* 💻 [Repositório no GitHub](https://chryspenalber.github.io/tarefa-7-web-api/)
+* 💻 [Repositório no GitHub](https://github.com/chryspenalber/tarefa-7-web-api)
 
 ---
 
